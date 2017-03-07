@@ -8,10 +8,6 @@ html {
   display: block;
 }
 
-body {
-  margin: 0;
-}
-
 .btn {
   color: #fff;
   border: none;
@@ -24,6 +20,5 @@ h1 {
 }
 
 li {
-  list-style-type: none;
   text-decoration: none;
 }
