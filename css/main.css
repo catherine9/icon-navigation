@@ -1,0 +1,29 @@
+html {
+  font-family: 'Abhaya Libre', serif;
+  background-color: #423ca3;
+  color: #fff;
+}
+
+.icon {
+  display: block;
+}
+
+body {
+  margin: 0;
+}
+
+.btn {
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  background-color: #15114c
+}
+
+h1 {
+  color: #fff;
+}
+
+li {
+  list-style-type: none;
+  text-decoration: none;
+}
