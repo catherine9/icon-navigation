@@ -1,18 +1,16 @@
 html {
-  font-family: 'Abhaya Libre', serif;
-  background-color: #423ca3;
-  color: #fff;
+  font-family: Abhaya Libre, serif;
 }
 
 .icon {
   display: block;
 }
 
-.btn {
+.logo {
   color: #fff;
   border: none;
   border-radius: 10px;
-  background-color: #15114c
+  background-color: #15114c;
 }
 
 h1 {
@@ -21,4 +19,17 @@ h1 {
 
 li {
   text-decoration: none;
+}
+
+.masthead {
+  background-color: #423ca3;
+  text-align: center;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .masthead {
+    text-align: left;
+  }
+
 }
