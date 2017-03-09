@@ -15,6 +15,10 @@ li {
   text-decoration: none;
 }
 
+nav a {
+  color: #fff;
+}
+
 .masthead {
   background-color: #423ca3;
   text-align: center;
