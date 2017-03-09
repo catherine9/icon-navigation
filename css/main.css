@@ -4,7 +4,6 @@ html {
 
 .logo {
   text-align: center;
-  background-color: #15114c;
 }
 
 h1 {
@@ -22,6 +21,11 @@ nav a {
 .masthead {
   background-color: #423ca3;
   text-align: center;
+}
+
+.btn {
+  border-radius: 10px;
+  background-color: #15114c;
 }
 
 .nav {
