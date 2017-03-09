@@ -28,6 +28,10 @@ nav a {
   background-color: #15114c;
 }
 
+.btn:hover {
+  background-color: #423ca3;
+}
+
 .nav {
   text-align: center;
 }
